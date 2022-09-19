@@ -6,3 +6,40 @@
     box-sizing: border-box;
  }
  
+
+ .flex {
+
+    display: flex;
+ }
+
+ header {
+
+    background-color: lightgrey;
+    height: 550px;
+
+ }
+
+ nav {
+
+    height: 125px;
+    margin: auto;
+    width: 80%;
+    background-color: red;
+    justify-content: space-between;
+ }
+
+ .nav1, .nav3 {
+    height: 125px;
+    background-color: blueviolet;
+    width: 160px;
+ }
+
+ .nav2 {
+
+    height: 125px;
+    background-color: blueviolet;
+    width: 723px;
+
+ }
+
+ 
