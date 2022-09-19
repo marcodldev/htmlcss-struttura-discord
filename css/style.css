@@ -49,5 +49,24 @@
     width: 723px;
     margin: auto;
 
+ }
+
+ .sec2 {
+
+    background-color: tomato;
+ }
+
+ .subsec1 {
+
+    width: 80%;
+    margin: auto;
+    justify-content: space-between
+ }
+
+ .Box2 {
+    
+    height: 465px;
+    background-color: blueviolet;
+    width: 770px;
 
  }
