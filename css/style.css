@@ -53,7 +53,7 @@
 
  .sec2 {
 
-    background-color: tomato;
+    background-color: lightgray;
  }
 
  .subsec1 {
@@ -63,10 +63,22 @@
     justify-content: space-between
  }
 
- .Box2 {
+ .Box {
     
     height: 465px;
-    background-color: blueviolet;
     width: 770px;
 
+ }
+
+ .blueviolet {
+    background-color: blueviolet;
+ }
+
+ .blue {
+    background-color: rgb(4, 98, 249);
+ }
+
+ .reversed {
+
+    order: 1;
  }
