@@ -54,19 +54,30 @@
  .sec2 {
 
     background-color: lightgray;
+    width: 80%;
+    margin: auto;
  }
+
+
+.sec1 {
+
+    width: 80%;
+    margin: auto;
+    
+}
 
  .subsec1 {
 
     width: 80%;
     margin: auto;
-    justify-content: space-between
+    /* justify-content: space-between */
  }
 
  .Box {
     
     height: 465px;
     width: 770px;
+    margin-right: 20px;
 
  }
 
@@ -94,7 +105,7 @@
 
     width: 80%;
     margin: auto;
-    background-color: blanchedalmond;
+    background-color: lightgray;
     flex-direction: column;
     padding-top: 30px;
 
@@ -107,3 +118,7 @@
 
  }
 
+ .bggrey {
+    
+    background-color: lightgray;
+ }
