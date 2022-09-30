@@ -122,3 +122,27 @@
     
     background-color: lightgray;
  }
+
+ .col {
+   width: 100%;
+   border: 1px solid rebeccapurple;
+   height: 450px;
+   background-color: tomato;
+ }
+
+ .sfondo {
+   width: 80%;
+   margin: auto;
+ }
+
+ .bofoot {
+   justify-content: space-between;
+   height: 100px;
+   width: 100px;
+   background-color: cornflowerblue;
+   border: 1px solid greenyellow;
+ }
+
+ #bofo2 {
+   width: 90%;
+ }
